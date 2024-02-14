@@ -1,7 +1,17 @@
+/*032b13 */
 body
-    {color:#fefefe;background-color:#032b13 ;margin:0 auto;padding:1em 0}
+    {color:#fefefe;background-color:#001b0c ;margin:0 auto;padding:1em 0}
 a
     {color:#358245;text-decoration:none}
+
+a:hover {
+  color: #00b255;
+}
+
+a:active {
+  color: blue;
+} 
+
 h1
     {font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;}
 h2
@@ -10,18 +20,26 @@ h3
     {font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;}
 h4
     {font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;}
+
 pre
     {font-family:unifont,
         lucida console,monospace,Monaco;font-size:16px;line-height:1;padding-left:20px}
+
 p
     {font-family:Garamond, Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;font-size: 16px;}
+
 ul
     {list-style-type: "> ";}
+
 x
     {color:#93f1ff}
+
 hl
     {color:#fff;background-color:#4f4b54}
-.yazitipi
+
+.sol-sutun 
+        {color: #fff;}
+.yazitipi 
     {font-family: Garamond, Georgia, 'Times New Roman', Times, serif;}
 .monotip
         {font-family:lucida console, monospace, Monaco; font-size: 14px ;}
