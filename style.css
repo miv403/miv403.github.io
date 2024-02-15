@@ -9,7 +9,7 @@ a:hover {
 }
 
 a:active {
-  color: blue;
+  color: #1d4f75; /* ????? */
 } 
 
 h1
@@ -37,8 +37,12 @@ x
 hl
     {color:#fff;background-color:#4f4b54}
 
-.sol-sutun 
+.sol-a
         {color: #fff;}
+.sol-td
+        {width: 150px;}
+.sag-td
+        {width: 310px;}
 .yazitipi 
     {font-family: Garamond, Georgia, 'Times New Roman', Times, serif;}
 .monotip
