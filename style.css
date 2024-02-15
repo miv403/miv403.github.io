@@ -12,8 +12,11 @@ a:active {
   color: #1d4f75; /* ????? */
 } 
 
-h1
-    {font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;}
+h1 {
+    font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+    font-size: 40px;
+    line-height: 48px;
+}
 h2
     {font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;}
 h3
@@ -43,6 +46,11 @@ hl
         {width: 150px;}
 .sag-td
         {width: 310px;}
+.ana-tr {
+    vertical-align: top;
+    text-align: left;
+
+}
 .yazitipi 
     {font-family: Garamond, Georgia, 'Times New Roman', Times, serif;}
 .monotip
