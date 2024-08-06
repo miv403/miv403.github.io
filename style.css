@@ -37,6 +37,9 @@ p
 ul
     {list-style-type: "> ";}
 
+.ul-dil
+    {list-style-type: " ";
+     font-family: Garamond, Georgia, 'Times New Roman', Times, serif;}
 x
     {color:#93f1ff}
 
